@@ -3,6 +3,7 @@
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
+        "WebGL",
         "WindowsStandalone32",
         "WindowsStandalone64"
     ],
